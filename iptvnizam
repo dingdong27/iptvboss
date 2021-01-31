@@ -1,0 +1,100 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Malaysia",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV 7
+https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
+https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
+https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Malaysia",DRAMA SANGAT
+https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Malaysia",ASTRO NAURA
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPcAAACkCAMAAAB8SEg4AAAB71BMVEX///82NjnsAIwAplH/8gAAru/tHCQuMZL/9gAqKi3sAJIyMzb/9wA0NDcnJyr/9AAAq1IAo1ay2CTsAJDtHh02NjQAo1QAqFEArlM5MDgtNzotLTEyNjnsAJUApkcArvrrAIf4GiP2AIz///g4NDk6Ljf7GiLm4+LKxcQuMZgkNJL+7/i4JCoArvT/+/0mODtJRUb0ZboArLztFj3x7+782+/4o9b//ur/9Cr//Lv//wDwOab6tt7yUrH95vSCfX3a1tX7zej/92b/+67/+H7p6g3W5hD2gMYtRDztGyyt5fp7LjJnz/WYk5O+ubhuamvb9P1rZmY1NUc0NFYyM272icr7xuX//Mn/+ZD/9T//9kz/+p7//d3/+HX//MT//us8uD5vwjodY0LtEFnsB3YLi0smTT4AreMArM+SKzAAq69hMjbKIyqoo6LsCW7tFEUAqIFZVFam4/kzNGXL7vwIjNQwMn73lc9hJZB5JJCqGY/DEo6m2B6Rzi43tUJiwDrD3SA/nD7YsBX/ogv4kRT1gBnzcXQTfEgbakSeKi8AqZZBuXfC69iR1a/CJCoAp29wMDUOgEmv4MNPNDdCpG1eTFRQxfPtDmEAqpAYW7gSbbyBfq2vrtXR0OZ5d45cXaqaQp6JHZBmKnxdLGNPL0udfA0hAAAWUklEQVR4nOWd+0MTZ7rHc5HQyTgjChLIBLxhE6CSUAPiCSHxAog1SdPWG2pXUbC36MbW2t0VZM/ZHt3V9tS62+6e3XPpOecPPe993ncubyZhwkWfX3YNMOTzPt/nOhMaCHi2I9i8/8BrYJevLE7tQjY1NXX16uLpG2evXDtz8vL1E6/xORy5dnWXm4FTWDwNzuA1PIKT7tSWIwAyuHLmNTmAIze8UYsaOH0WKGAn859YbBrbwv/xTvT/9anWsU3+q4s3rp28fmKrYbybL9gcPvT+DnD+EY8ZrUn8G1dOXv/VVrPJ7HQbsBn9aUC/PX1/rX3YlB4E/sfbLe1dbzs2gZ/aXq7fQAVrhX7x7PaAP7Op2AQeen5rsY/4WcKag79x7fLWpfv2JzUpO1T9VmBvnbtNu3r2zKazb0V0O9nVG5vr93Z0aq3a1bMfb1a8X95qVotNLV7bFLefbdP734PsrQaGvsnOfuNku93uU1YjjLuhYSLw4uzs7Byw9fW59X02Wwcvz82Bb9m16y3yk29xZzB1+kxbp9kNyByx7saoe3YjyH2PH6+u3rr15MnNm2uDa319feFwrBfaXpvBV2Phrq7BwbWbN5/cWn38eH1udje64FsEf/Fa+9CvNE9L3LNnD/TmOgZdWxvsCgt4CLc33Mi4Q+kNxwbXnqyuAv49EL6t6N6yOVIxkvCeXcitq7ee3ESoHGVDRi+HAC8W7lp78nh9Fvge/Lqp0yfb0MufaMwLdQxlPAc0fOvm2lpfrJexoncb2zgwZ/Bq8Bf09t28tW8Wo5+97Df3SYmaIS9w7joQMpAxca0vfvVk0PfhtdW5PbuB4hfP+Jvgzzrygmw8O7cPaHltEDt382gt7OBXr63OwuowddbPsr7IEyMHz4JMBWIXhy7G9VfIzdrevbFb67thXTztm9xR9cY+3jMHPQz0THLrdrK9vU/moNp3nf7YH+4TqGAATQNJx0wHbzeLhfeGb/0TskVffP6r2X2rT9b6wtuTOBaLdfVB6wLgy7//53/5wx++/fbbfx3P54Dl8/nx8flHk9OnZsaag37/wYVPBrclMeDtAsSxcO/y8tNnS0sr5+LxRPzoO4ciwHoiP3dHQ6Z1D+Ty89MTXqm/unC348C7W5uybIYd3BXDvCvnEkNDR4H1D0GLp//4dgSRH78z0B0SLZq76AX9/QsdwA58NrjVpMwwMdAzBu7v74e4Qd4S6U8PYfDIbcHlxPH56UbY5+92bB9uqGpMjDwM3Nsv8nLg72GPA5cftIOHQjk5+YMObAf+5Dt3DAwX3i8KnQxV/fTZyrlgP1D0kAsxtfSnFHzhjhN4KH+qMXbHgb/6zv38xYvvnnvpdJCuY9jJQ/2NiYnH43+k4JF7A07g0Xm39M6wOw782m/uXjQ7vdgrBYe6BrXz5bMlEMfuqnYB/56AR1zAQzlnl59n2B3H/s1n7sHv8O/4zu26sRhcRuxdBshBz04WLD60cIh63FnqoeikA/b7dzluuV+at9gL/EteOH4RBjOI5aVzcZSsm0bGlv6BcIMYd0xuwObt3D9x2B0+c8eeH3HmhnUZZOyXSyvxIVt5atrj7zDw493WOk5s3BrknMo7jt31mXvwOfktP3LXhW5G+etc8GjrXua5Xy3QCO+57RzidvCfBO5en7lJeLP4xswvn6GU7QMyNlbMgLmEOAB3yeWQ+xOfR2uBO4aS9lOcs31jhpZgqQ0oPeSidDHGeXd3HPCbO0zSWuD5IMlgQ/5I22Kcw92VHuJ6t686RG6/xxLGvUz87DsysviriGkH3Rw+MMO4L2wOdzZjtMPNHDhL6cDhbhFuhjhfuyH3u362LSCeY6SMJYe0NkIDS793yIPDmdLPd7SLG7RhXSCHZfHvSSntxRaELnF4bsxJ5n5xw56kd3lpJXj0L4S7preZOxH/wnT4grvDJx2y+Ya49z4HVQsz9/UuP1uJw7xt1ImuCk1wG0Yr4qCrF+Twn11Teg6Hd4eFu+W1AyjUL358Hh5E4mY9iVEl3FXvKEo1VVCazwZsAYFquKvQu085hPdG1i0/wuu9+PPSinbU7MOUCkvnXt+/mkkGAqXmPR7/nEtsksw27hDerXPHBnHByv5FaD6VAuYuBr06UFPKQlwYiscTEyq4TOijvnGjiE4SQk114E55drdeEi6jVGp1b74HrSrHfd9V6KFT9rTWAjdM3WCaTGcId6DCIxKKQM2rbpUqKTR1dBmlng1kvYEnglxCjyy4NumhR+DqdzfGDRuT5acriaNHjTqd8gREvUbSuUdugx0fEroaLMKex1NySCR47sgdV+48uGSHlbuJOgYakzCoVwmUumkCA5Lmda6XHUTgbqqRCvDc5Ng8qUXk7rknbV1a5gaeDi8vnWMjNA1kSwrDSQpIVXV+sxZTagGeWycXTXrJihbun90r2Uyr3MDTvS85aOEdJzMmo0b8lwx64jZFExgD8a3Q2MnWPcjFwu3eqh6caIkbxbQIDcwUqMCtFbEGvLlbzdRSxTFS8FUz1sc8cZurB3lCP3gpEDhm5W40h8a6upafWaEBYLDoyB3Eb73sMa2pik58nFI0lR2lECYqqOhOxyDUMSn3tIO/G3D3xV6uDDnsDlTmG4FbJdwlz905LXwlnf4/8ZKGkqkWKnWHDl7oW+C2yZV70s4t36/F+pZX+o86OoqVMZDXTG4jkzWTsxejgQHKt1FJJclhml2PnqnB17Kpqm4lF/vUnuOudcyZW7JP7Yot9busidj8ATstM/lSbs9TiVrPsqJgqLRIULmAF7L015TrltmFn0saclv7Ftn+vKt3xdHX0LhMzLekpJvxPpVQUlSxNVr9ybGptGhkyyXwlZrQEQurZHl8O3G73y+RYXPlW8hhCpaBxzIWtPQ5KlEL+XGVdDFjtYyhwNJeNvjLcgu2xtzW/tz9vmAsLMFm/WhAbK6IDIqqpe9QFWAOGqB5ECcyKqIylrmCE122qsOfhGmPP+JEcEHgltTvSfs81nHM7T5w35IEm/kpII7OpOGylDHFqBdKtVLVXo6IPsgPUFnjrEiulazr5hFxbb+YzmX9GqxjNm63+/59L2XYXNsijCDkvQrLNUOvlrF+yxlrmqe1C5HS4p9FzicpMlunPwMlxjWwcX6fKu3PYd/ywMbt/JxHLHxOtvBn5SfAjSCqqhKOgq4a0KC89YwpjWxFFwKAtrWEtMonSqIosyIacGI1/ymGt2weg32qdc/k1qj2PZO6m8ZlAPeUGsg7IHwz9Sp+s8UUtXKpxCoRDgoenJY9vHRmzof/IrHOKQf9TraeTgwJU6hs/g7N2PeKLjdEY71p6b0Omnmhr4K6omUqBdBpJwVE9MWk+f+TtVrW0snRqoC9SJ2PmlTctPK9IPo6q5Bi1yLdt0THbLdLOlwecOl7KnV30Nw6BJKFUtkKnE2maiXQXWaCLO1nS0EdSbfCp/8ak4x5lkjmxN1C34dqCH1FrN6y/RreJNsKmZPQY10r8tt5SjXgbGPES4au6yC2GXaxrqt4OOdqu0qGG9zx6bzz8RxfFAo2igNSNS3LFslNcLJQtRdwh46ta1muckOvBOyWLBfqRewx1Xyj2IcZhSWFKqtmVDWYReecTwJfbPPRwZDu0CpzWXjD/Zq9kDmt2CRZTQM5OlgtFW3QtSoQsoJeJ+VbZz1dWeO1y4ROwxudBC0RKUOjP2pp+9CLZBrgb5ZEpLfAQ6FL8Fq2QgZbVQu4q8yBo9V6ocwlK2zZcgVkN5V6FPvPYLkvhRsWkrdMblKqMB51fsmUuWXNhrhxBRdnb8AtkfkA3J9bbvs7R7hzNtcMXauXiracPZYqZBQFd9R4KkdkGmttikG8Iq5w3kUXFJYU1PlQ5raI4LhRhk+/513mzjfInFJ617J9rWcoENrh+ccahQ6ylIxSNgtusg7XVKzjLCtN1MOkipHSD3WMv2KdbtAVMbelaZE05+whF1shQ6lNAO97apG5qht1e0gTDC73GHiahn4yK3xFN991QNgpFMgVDFMqWNvY99ZlFUp8SOfxzyOiuTdr7M6/LaFjpfM5ve+ZwG3owULKJm/GzXcWVQbCShgdrsiCgcvRJLxxC0ZvIKOuF09i1qUNKYOaPatJmpZQlDziYk/otpzetWRyq2CYqtkSmWlJjd+eoxCG+mSNDem42D7OFK+4i6PTFx5IEXdF9LdmFAN4U2sZxWQzCb5bAs2e0BE4P5aZ3MjVDrRmdhNuAGJ9wumbzanYaaoh/psLCnpjDH8D1rYBxWJdouPIKRv2Xs395neIVO+AY0KHIc7P4bSMGXqm5ODqbK1utudCEJK4NMwahsutylSfMuVBEjguTNT5JMch7oyY1rCYgDrExXkDd3ezJ7IdEpsFHHNrSqbmENXFQkbX6+wLNfucAVKTQpM5TGqaEqTe5n1ImvMyH96EFf24NZ2zoKcfMWHuliQ19lyPc2KD4KbUEbcaLNmpQYOigUab26YKyQe/NeASOp5n66BPN6pF+t1V87tpf4bbGBLeZMwk3GI1RRMayJlNuZt7VNMxsSGP/4lkdcitBu1xnSzVDTQ/c9tUIflgFxZ0c7ueBQM4u9AYf0gq3afgLQN2PplSkW4sOscb56Kh2aJb5m7cpCKzrR7M5PZubJDmNfZgEnvTqUJQN4TQhCYkHxSXgapCv54VFJMllVxVuCUiXkHSpoZ0aKgaWJbROtGSzd2SFpWXuWPHRsE/QdtVlM+NkvCea3XQm4txjE5DeHOoNQUepGmszO2YAim2ICzBzQLpY7CHSR6kIY2y3Jjw2AMJi6phdfd9yUQiPpHsEuAI/O6vgda7UN+iV5i3kqWMYvB1mp2JsBAh3Bl2N7+kqxW8U8ymCho5IXAocAVLChe+RUCcz4oD+qK4dEDfUdTi4kTSI3liDxr/+Rq3AMfZ7bPwIOlT9Qx+++At62IpNbn5m2PEJ0lNNW96BRUlUykUKhmDLtYgIuAmhYtP4NyohtIcP47hpgV8g7VVc18fW2Tu1rnwLl8m9dsopJLlqqKLBYW/6S+0LfjmMNw68HcDDAXmdCYJ2LiBZEgaOprA0QXN297oCvyZkoE8Y92ay5Na6CKHLQtw5PJjny3vx3OopmgZ1eFRQoNxC20LbkbLCuXm7xjSb8HLQZXoliZwHBhc5ULRz21mcPyXdIu7ZeslYN3i52QlAU5c/uHQfuJCxxtdJnfNzl3TzdWJ9Qc1lPFgr0PSGg5v8hQBd4joFfZvA18QRPcrMZdLtonQ8gHBZAGO7W9ff7h/vxMxeR8sTZdE7ix2oYITQ9nGrbNGDCubpEXCzScy9KwLaXMM/PvGqkr6nbebUHnI8uE59wpO7eHw8NcfuJNzT1/ZucG7J3WsaOHWsJORj/EliCIwt/hUC4zoZEZXNYPm14Ju2SY2UDkbQVmAO7fofIx3dg53fuRKbnILz6nhXgcmLRy8lg6b3EXibxIQuZBCYF0jZgPJSiaYIf1ySdcS3x9qQuWWz1F5E/qwjNzkrtq5gddIYhMdqGg1/PYRKa5LtMtFQrbtV+owB5KRN1vQNfPjkR46lpDwaSJs8koG7d87oQ13fv1h0IGccYszMhpXECypx/zdLaLWErkzSFocvvG1PQxkaHTPk0UP68aFB9Zku0RkeJHanNAfdmIbHh4B5FZ0ls/F2QHJG71E7oSwm7iqgqc72qKTvMYKHdpBWPYrUBWw6ymVSpUMfGgg/YNQwxoEt4PMvQh9pNMk/9Iqd8ZtaVOrLErJOi0J51DQtWQK6By4G+CWjgxmQseH9VR0AXhJ8fnjhsHtIHO3pYsg9OFOk7zzI9HprF8TZ2TUg5EuS6niEC8XCoUSVmuxoBrc92b5wqWq5UYPpQo788bB7SBzLw5/2MkbKGvQ6RSd9ediR6bx3aXCz2KYWuj8gIfHuMe9VC0jxxbmT8lnQpk5fADcS4SPdFrIQY6jemdzaNE+r7BqZCjVGrnRkEyVwHBqWZ8Ei8KE7dwZcu7m5k/3T7ub1t3wTx00FDqPPgTR2b7F8vytBsbOmilXQwnWq8DqoMk37K16ptrEh4jET5NIV0vYco7YjZX+0IrNQn1oP7sJYHvuWBEfp8SPuRjOrlSd8pib8R2qh5xm7o+bBh9xAgfkwyMAvYiv4f3jMxu0ONeySG+PUHPMap7A7UI3nd75d3wJ++TRHuNrmJec5pLVPIE7Cp2h/wNdwfPHhjZo/KfcI41zmm3yttgDaVZ3Fjq1/4AX+E+uuLXR+LG7x+VP1YiWl2GDciZbQbgKHXl8BICPduLi1mZ0/iEe6RMdpl2Sc0tdfkzq7+HOv//jv4ZRcfvyA3sL76fxKnf9cy3NuBu53D3K/yYFh6md/G970dPmtsFLw+LJ3dC+ciN/KBO65Qg6v4aFvR3scb5BbTiEeXW3lFye2eze/+hD/92eiJsdi7ec5taiOqvdKc6lmc3F7X4r3tsfahHMYfCW2Hk7uqyES9DR1OoTOzd9eurTgEU9/2FN6nQbeoPM5oaOZjdf3M7nNG+pXNKZy+yrCz/d3ZDDTfQvP9hwoku/inj4M0yi5RwesvPmdo69JYcz9o3m+PQr869PeaxgzSQ1R/jzDwD93YedIyPNZHVHt7eq+PTnzWO3pnKb58//9y/ffNMJ4ZG1xN5qaU//EGkeu7lc7m6PDh8ORQd+99vf/vIbeADsBJo5BDizN+32ePrTFrBz7mN3czYKS+ZhYqHugd/BI/jlN+AQUG0f8XoOJNq9sifSQ1y74hl7oNkS5m6PhAsfNg0dAjgFcgxIDeJBWA7DdHsj9kQ6/t4CN4tsATZ2uLMd5g1k0ugAPAkkCHIU3xBk7hxGgNvj8f3xeDzBGceciKcTP3xxiGtXPBawUM5HbKvDpXbYauC1biQLLAx8IOBE/ud//+8VMvjHvRFtnFqw//NPeeqe29EtwQ6M5byDezuNw4dB53Xn59vHI5EviH3/DrXvFw69zW1XFryNIsDG/Upp1KY3yO1s3dHug3cAes/bh0SLmNbTc99zIm/4h8+bt/G2gEP2gejBe7ePL/T09EQcDDrbk8a7c5OtNqcym9mo0mVvOTrQffDefeB3C3tPz8Ltgx40Hs3lL26sNXW3Ux7F1jJ7FIT7/YUIQ+9B1NKEFh3I5ccvTp+aaIenqV3ymlxaZx8YwOwQfmHh/r2Qi8Qx7+SliWb/2x0t2UQbpc7QoyDc79y5d+/OwdCAlbo7msvl5x9NX5oY3QxeZqNtS24iHtB8lNN3N3Lv/OSlUzN+lymvNrkJLme4Azmk5mmAu6nudbLR+XZHOY+71bS8zVxsi8+BlnPjMFdtM1zORifzvtU0HLqPNis1b9QmHuU3ondTyxPb1bmuNjM9n/fWQTJa7FxUd3ccrmCjpyYvjucGGqkeVt1tkpf9tNGJS9OTF+fHx/PQ7IfQ8jJ7R9mkjduPre72N9uKYoNL/B1j1hWF5Gmq18ssXfybEd7AZsTS7vXBg51v028od2Be0PlWv5vNs7H8m5jXgI1yxexNqWPI+PXrm9G3EBs1pf7GFDJkY2YZb8NtjO1sk3RE8e1G/A6xCap1vx682DE2TdKb7Mn/19LGJvNoJ+P6X619fe3UfK7b9xvyO8MmJudzOU/Pg79+NrbFSv9/co4IjWvKtDAAAAAASUVORK5CYII=" group-title="Malaysia",HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="Malaysia",BERITA RTM 
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Malaysia",ASTRO AWANI 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="Malaysia",TV3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
+http://1.9.62.167/PLTV/88888888/224/3221227633/3221227633.mpd
+
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia", ASTRO RIA
+http://iptvtree.net:8080/Line1051/f4fffd47/158347?play_token=2CRjfTjUfg
+
+#EXTINF:321,tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",ASTRO WARNA BACKUP
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",ASTRO CERIA BACKUP
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",ASTRO PRIMA BACKUP
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/23de07828ba332e769ee3349d500fdee.png" group-title="Malaysia",ASTRO ARENA HD BACKUP
+http://iptvtree.net:8080/Line1051/f4fffd47/157485
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0f47dd99757c57640fa8d59006d3406.png" group-title="Malaysia",ASTRO SUPERSPORT 2 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/247417
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/50e02a8627aa307538fa24480bc9d061.png" group-title="Malaysia",ASTRO SUPERSPORT 4 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/247419
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO CERIA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a52767c0cbab7a73d4554f002abe4b31.png" group-title="Malaysia",ASTRO CERIA HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157481
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Citra HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",ASTRO Citra HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157569
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO OASIS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/10f80ac8dd2f873564e378f9c7844cb8.png" group-title="Malaysia",ASTRO OASIS HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157489
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO PRIMA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="Malaysia",ASTRO PRIMA HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157467
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO WARNA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a299dfa8e82be635478b91adb6e042ac.png" group-title="Malaysia",ASTRO WARNA HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157492
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Bernama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",BERNAMA
+http://iptvtree.net:8080/Line1051/f4fffd47/264517
