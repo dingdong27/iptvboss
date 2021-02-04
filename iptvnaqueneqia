@@ -171,6 +171,15 @@ http://iptvtree.net:8080/Line1051/f4fffd47/247419
 #EXTINF:-1 tvg-id=" " group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/23de07828ba332e769ee3349d500fdee.png" group-title="Malaysia",MY: ASTRO ARENA HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157485
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Citra HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY: ASTRO Citra HD
+http://iptvtree.net:8080/Line1051/f4fffd47/157569
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: BOO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",MY: BOO
+http://iptvtree.net:8080/Line1051/f4fffd47/171958
+
 
 
 
